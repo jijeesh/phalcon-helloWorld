@@ -1,1 +1,1 @@
-# phalcon-helloWorld
+Skeleton for a Phalcon single module application
